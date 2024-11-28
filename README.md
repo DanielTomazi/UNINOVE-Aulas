@@ -1,2 +1,3 @@
-# UNINOVE-Aulas
-Alguns códigos relacionados a aulas, exercícios e projetos realizados por mim pela universidade (os códigos aqui não tem fins profissionais, são para estudo somente).
+# UNINOVE Aulas
+***
+Some codes related to classes, exercises, and projects I have done at university (these codes are for study purposes only, not for professional use).
